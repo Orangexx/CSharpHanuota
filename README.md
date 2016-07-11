@@ -20,12 +20,18 @@ namespace Console汉诺塔
 {
     class Program
     {
+    
         static void Main(string[] args)
+        
         {
+        
             hannuota c = new hannuota();
+            
             int result = c.HntBuzhou(4, "a","b","c");
+            
             Console.WriteLine(result);
         }
+        
     }
 
     class hannuota
