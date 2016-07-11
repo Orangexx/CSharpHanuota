@@ -15,7 +15,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace Console汉诺塔
+namespace Consolehannuota
 {
     class Program
     {
